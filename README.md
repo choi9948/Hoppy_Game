@@ -1,4 +1,4 @@
-# Hoppy_Game
+# Hoppy Game
 Java-Based Platform Game
 
 ## Overview
