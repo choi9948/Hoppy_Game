@@ -59,7 +59,7 @@ The game concludes under one of the following conditions:
 - In **Multiplayer Mode**, a leaderboard is shown
 - Players may choose to replay the game or exit upon completion
 
-## Technologies Used
+## Technology Stack
 - **Programming Language**: Java  
 - **Framework**: Processing
 
